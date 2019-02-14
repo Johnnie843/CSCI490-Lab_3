@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string-array name="classArray">
+        <item>Intro to Hadoop and Spark</item>
+        <item>Software Architecture</item>
+        <item>Operating Systems</item>
+        <item>Android Application</item>
+        <item>Algorithms</item>
+    </string-array>
+</resources>
